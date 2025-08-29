@@ -4,6 +4,6 @@
 // #include "stackADT_CB.h" // uncomment this line to use Cursor-Based implementation
 
 int main() {
-	asdasdasd
+	
 	return 0;
 }

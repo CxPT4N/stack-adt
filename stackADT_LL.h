@@ -63,6 +63,7 @@ void insertBottom1(Stack *S, char x){
     }
 }
 
+// Non-Recursive
 void insertBottom2(Stack *S, char x){
     Stack temp  =  NULL;
     while(!isEmpty(S)){
